@@ -1,0 +1,17 @@
+{
+    "Host": "www.google.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https",
+    "Alt-Used": "www.google.com",
+    "Connection": "keep-alive",
+    "Cookie": "1P_JAR=2022-10-20-23; AEC=AakniGNhY1duXYBF66b-og5glz-hXu96pxhAOMTe5CW_ApPkBopI2q28ww; NID=511=tVNrzn_MIbwVQRfc-SiLw2GaKu7Soj_T6AVQI01vc2pfjPPqroVg7pUKFXoIaxOKZ3PeL_gyWtrPTiyjOcBRKvKS6ax66fqbZfyBb_no2U89olmwkzOGc2a_BwINDbUE-cQ9NaAdSaInt967gcRXk-jiHyuemXoxvLyu_o408C-rzgXf0eTv7GBjmiGqWdTAjUE4YRDTSP85MuV_xSUuH_4lcGI07AcGRx-RTZqKVD1BQSkj5NznpjO-cvRP45Ia2zPQcfyHdsJvEd9piqxTKBxtBJmu5klSjjSCZvdOZKU1k_gOsgTNa-tRvFEbNdsDeJyzhfmu7E5RkkpAPGJIwkErhNYLtFzfPsyDKk-cX1bBbXUEbixu7JsGA1O6p3HVtkmA1DXZAbgQEhL5go8NQ5c; ANID=AHWqTUnBqU7-vFgPQt_pWBL3ol2FvEMdoVBnYSqZIjwVE9sYHeNLaFRb3Z3SXlON; SEARCH_SAMESITE=CgQI1ZYB; SID=PgheKJYiSipEpUwpUKqXngDmVEG6aqkA3VHFi98pCLnbyG3CLLK_6O3mG6bZCU_xObjXBg.; __Secure-1PSID=PgheKJYiSipEpUwpUKqXngDmVEG6aqkA3VHFi98pCLnbyG3CqXmZ3iMFXMD-UEXJuVjbaw.; __Secure-3PSID=PgheKJYiSipEpUwpUKqXngDmVEG6aqkA3VHFi98pCLnbyG3C5-1ieF2_HQbbrAJmWloCtA.; HSID=A3S84IKHc7nn5NKtu; SSID=AqXLCy0MHEjK3JuZC; APISID=1QJHuDST3pNJ_7dY/A0qC-doq78461c-ZQ; SAPISID=FqOqFFfQxk947QG-/ATXdJQqb-huxndk4x; __Secure-1PAPISID=FqOqFFfQxk947QG-/ATXdJQqb-huxndk4x; __Secure-3PAPISID=FqOqFFfQxk947QG-/ATXdJQqb-huxndk4x; SIDCC=AIKkIs1dqdnzdNT9jOY35HzHXzv0zyB5eRmBVjycg2aydy49y2ax-KJPrLcR9GH-tSz6-ro9mhE; __Secure-1PSIDCC=AIKkIs3Ed2EhxxrAztjlL3qpoUTm9PJKZY-vY4hrBw62obGQjwQbLc1lM8uZjZ1Tzwz7M2Om3vs; __Secure-3PSIDCC=AIKkIs2z6PGPUox5BK0VTKPgjjYoc5wiw4BGC1JgivJ5yX1AbJ0Q8CnA0UXlUqHxwFjGCq1RVA; OTZ=6724932_68_64_73560_68_416340; OGPC=19025003-1",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-User": "?1",
+    "TE": "trailers"
+}
